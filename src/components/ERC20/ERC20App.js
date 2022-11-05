@@ -35,7 +35,7 @@ function ECR20App(){
                         </Link>
                 </Box>
             }
-            { menu === Menu.Main && <ERC20MainMenu onClickCreate={onClickCreate} />}
+            { menu === Menu.Main && <ERC20MainMenu importToken={importToken} onClickCreate={onClickCreate} />}
             { menu === Menu.Create && <ERC20Create importToken={importToken} />}
             { menu === Menu.Import && <ERC20Import tokenAddress={tokenAddress} />}
         </div>
