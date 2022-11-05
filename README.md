@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## ScreenShot
 
+![token info](https://github.com/vwedesam/ETH-ERCs-Manager/blob/main/public/Screenshot%202022-11-05%20at%202.56.59%20PM.png)
+
+![main](https://github.com/vwedesam/ETH-ERCs-Manager/blob/main/public/Screenshot%202022-11-05%20at%202.59.29%20PM.png)
 
 ## Available Scripts
 
